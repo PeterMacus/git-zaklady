@@ -1,6 +1,6 @@
 # Moj prvy repozitar
 
-Ahoj svet, Jana !
+Ahoj svet, Pjotr a Kamoš!
 
 ## O mne
 Ja som pjotr.
